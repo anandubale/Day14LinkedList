@@ -7,10 +7,12 @@ namespace LinkedListProblems
         static void Main(string[] args)
         {
             LinkedList linkedListOriginal = new LinkedList();
-            linkedListOriginal.Add(70);
-            linkedListOriginal.Add(30);
-            linkedListOriginal.Add(56);
-            linkedListOriginal.Display();
+            linkedlist.Add(56);
+            //linkedlist.Add(30);
+            linkedlist.Add(70);
+            linkedlist.InsertAtParticularPosition(2, 30);
+            linkedlist.Display();
+            Console.ReadKey();
 
         }
     }
