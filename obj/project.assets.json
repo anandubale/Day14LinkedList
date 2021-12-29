@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anand\\Desktop\\Bridgelabz\\Day14Assignment\\LinkedList\\LinkedListProblems.csproj",
+      "projectUniqueName": "C:\\Users\\anand\\Desktop\\Bridgelabz\\Day14Assignment\\LinkedListOriginal\\LinkedListProblems.csproj",
       "projectName": "LinkedListProblems",
-      "projectPath": "C:\\Users\\anand\\Desktop\\Bridgelabz\\Day14Assignment\\LinkedList\\LinkedListProblems.csproj",
+      "projectPath": "C:\\Users\\anand\\Desktop\\Bridgelabz\\Day14Assignment\\LinkedListOriginal\\LinkedListProblems.csproj",
       "packagesPath": "C:\\Users\\anand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anand\\Desktop\\Bridgelabz\\Day14Assignment\\LinkedList\\obj\\",
+      "outputPath": "C:\\Users\\anand\\Desktop\\Bridgelabz\\Day14Assignment\\LinkedListOriginal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anand\\AppData\\Roaming\\NuGet\\NuGet.Config",
