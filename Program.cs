@@ -4,13 +4,13 @@ namespace LinkedListProblems
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[]rgs)
         {
-            LinkedList linkedListOriginal = new LinkedList();
+            LinkedList linkedlist = new LinkedList();
             linkedlist.Add(56);
-            //linkedlist.Add(30);
+            linkedlist.Add(30);
             linkedlist.Add(70);
-            linkedlist.InsertAtParticularPosition(2, 30);
+            linkedlist.RemoveFirstNode();
             linkedlist.Display();
             Console.ReadKey();
 
